@@ -4,7 +4,7 @@
 ซึ่งรวบรวมมาจากสมาชิกใน community 
 
 #### Docker tutorials:
-* [Docker for beginners](beginner/readme.md)
+* [Docker สำหรับผู้เริ่มต้นใหม่](beginner/readme.md)
 * [Docker Swarm Mode](swarm-mode/README.md)
 * [Configuring developer tools and programming languages](developer-tools/README.md)
   * Java
