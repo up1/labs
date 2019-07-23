@@ -1,8 +1,8 @@
-## Docker for beginners
+## Docker สำหรับผู้เริ่มต้น
 
-This tutorial consists of the following sections:
+เนื้อหาประกอบไปด้วย:
 
-* [Setup](chapters/setup.md)
-* [1.0 Running your first container](chapters/alpine.md)
-* [2.0 Webapps with Docker](chapters/webapps.md)
-* [3.0 Deploying an app to a Swarm](chapters/votingapp.md)
+* [การติดตั้ง](chapters/setup.md)
+* [1.0 ทำการสร้าง container แรก](chapters/alpine.md)
+* [2.0 ระบบ web application ด้วย Docker](chapters/webapps.md)
+* [3.0 การ deploy web application ด้วย Docker Swarm](chapters/votingapp.md)
