@@ -1,6 +1,8 @@
 # Docker Tutorials and Labs
 
 This repo contains [Docker](https://docker.com) labs and tutorials authored both by Docker, and by members of the community. We welcome contributions and want to grow the repo.
+ใน repo นี้ประกอบไปด้วย lab และ tutorial ต่าง ๆ ของ [Docker](https://docker.com) 
+ซึ่งรวบรวมมาจากสมาชิกใน community 
 
 #### Docker tutorials:
 * [Docker for beginners](beginner/readme.md)
